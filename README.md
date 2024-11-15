@@ -1,7 +1,8 @@
-<<<<<<< HEAD
+
 # reminder-app-pwa
 ReminderApp 
 =======
+# This App is created using React and have 2 compoments to remind words from English to Macedonia ,also to remind and explain the code.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
