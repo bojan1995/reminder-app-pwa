@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reminder-app-react-pwa/static/css/main.4dcf30b7.css",
+    "main.js": "/reminder-app-react-pwa/static/js/main.fb379a34.js",
+    "index.html": "/reminder-app-react-pwa/index.html",
+    "main.4dcf30b7.css.map": "/reminder-app-react-pwa/static/css/main.4dcf30b7.css.map",
+    "main.fb379a34.js.map": "/reminder-app-react-pwa/static/js/main.fb379a34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dcf30b7.css",
+    "static/js/main.fb379a34.js"
+  ]
+}
